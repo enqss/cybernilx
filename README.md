@@ -1,2 +1,2 @@
 # cybernilx
-yberNilx Resmi Web Sitesi
+CyberNilx Resmi Web Sitesi
